@@ -1,9 +1,12 @@
-![Oorjitha Bhimavarapu — Software, Data and Intelligent Systems](assets/banner.svg)
+# Hi, I'm Oorjitha Bhimavarapu
 
-<p align="center">
-  <a href="https://linkedin.com/in/oorjitha-bhimavarapu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin"></a>
-  <a href="https://github.com/oorjithareddy?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-24292f?style=flat-square&amp;logo=github"></a>
-</p>
+`Software Engineering` · `Full Stack Development` · `Data & AI`
+
+I enjoy building software that solves practical problems — from interactive web applications to data-driven systems and embedded prototypes.
+
+[LinkedIn](https://linkedin.com/in/oorjitha-bhimavarapu) · [Explore my repositories](https://github.com/oorjithareddy?tab=repositories)
+
+---
 
 ## About me
 
